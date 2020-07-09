@@ -1,3 +1,3 @@
 # Hi there 👋
-### Manasi Kulkarni
-## iOS Developer
+## Manasi Kulkarni
+### iOS Developer
